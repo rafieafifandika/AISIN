@@ -24,6 +24,7 @@ Spesifikasi Aplikasi,
 - run on cmd "php artisan serve "
 
 **3. Setup Vue**
+- run on cmd "npm install" 
 - run on cmd "npm run serve" 
 
 Report Aplikasi yang dibangun.

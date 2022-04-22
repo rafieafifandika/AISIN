@@ -21,7 +21,7 @@ Spesifikasi Aplikasi,
 - Done
 
 **2. Setup laravel**
-- run on cmd "php artisan passport:install "
+- run on cmd "php artisan serve "
 
 **3. Setup Vue**
 - run on cmd "npm run serve" 
